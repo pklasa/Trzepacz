@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trzepacz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="szybka_gr">Szybka Gra</string>
+    <string name="wielu_gra">Wielu Graczy</string>
+    <string name="osiagniec">Osiągnięcia</string>
+    <string name="ustawieni">Ustawienia</string>
+
+    <string name="dwa_gracz">2 Graczy</string>
+    <string name="trz_gracz">3 Graczy</string>
+    <string name="gra_onlin">Online</string>
+
+    <string name="najl_wyni">HIGH SCORE</string>
+
+    <string name="runda_num">Runda</string>
+    <string name="sekund___">sekund</string>
+    <string name="gracz____">Gracz</string>
+    <string name="gracz_jed">Gracz 1</string>
+    <string name="gracz_dwa">Gracz 2</string>
+    <string name="wyniki_po">Wyniki po rundzie</string>
+
+    <string name="czekaj_ru">Czekaj. Ruch przeciwnika.</string>
+    <string name="twoj_ruch">Twój ruch.</string>
+    <string name="koniec_gr">Koniec Gry. Zobacz wyniki.</string>
+    <string name="zobacz_wy">Koniec Gry. Zobacz wyniki.</string>
+    <string name="nowa_gra_">Nowa gra</string>
+    <string name="anuluj___">Anuluj</string>
+    <string name="graj_____">Graj</string>
+    <string name="odswiez_w">Odśwież</string>
+    <string name="ranking_g">Ranking</string>
+    <string name="ranking_o">Ranking Online</string>
+    <string name="wpro_imie">Wprowadz swoje imie w ustawieniach gry.</string>
+
+    <string name="aby_rozpo">Zakończ rozpoczęte gry, aby rozpocząć nowe.</string>
+    <string name="wlacz_dan">Włącz WI-FI lub dane w telefonie. Ta gra nie pobiera ich dużo ;)</string>
+    <string name="rewanz___">Rewanż</string>
+    <string name="usun_____">Usun</string>
+    <string name="tak______">Tak</string>
+    <string name="nie______">Nie</string>
+    <string name="jestes_pe">Jesteś pewny? Możesz stracić punkty.</string>
+    <string name="wp_id_opp">Wpisz ID przeciwnika</string>
+    <string name="wp_swoje_">Wpisz ID gracza, z którym chcesz grać. Swoje ID możesz znaleźć w ustawieniach. Jeżeli nie wpiszesz nic będziesz grać z losowym przeciwnikiem.</string>
+
+    <string name="najdluzsz">Najdłuższy rzut</string>
+    <string name="suma_rzut">Suma rzutów</string>
+    <string name="razem_raz">razem</string>
+    <string name="rzut_rzut">rzut</string>
+
+    <string name="o_rybka__">Domyślny</string>
+    <string name="o_wielory">Wieloryb</string>
+    <string name="o_orka___">Orka</string>
+    <string name="o_kaszalo">Kaszalot</string>
+    <string name="o_narwal_">Narwal</string>
+    <string name="o_walen__">Waleń</string>
+    <string name="zablokowa">Zablokowane</string>
+
+    <string name="ustaw_gry">Ustawienia gry</string>
+    <string name="wibracje_">Wibracje</string>
+    <string name="jezyk_gry">Język</string>
+    <string name="jezyk_pol">Polski</string>
+    <string name="jezyk_eng">English</string>
+    <string name="wybierz_j">Wybierz język</string>
+    <string name="czy_podcz">Czy podczas rzutu telefon ma wibrowac</string>
+    <string name="gra_w_sie">Gra w sieci</string>
+    <string name="twoja_naz">Twoja nazwa</string>
+    <string name="wpisz_swo">Wpisz swoją nazwę</string>
+    <string name="id_do_gry">Id do gry w sieci</string>
+    <string name="info_o_te">Informacje o telefonie</string>
+    <string name="szerokosc">Szerokość ekranu w dp</string>
+    <string name="model_tel">Model telefonu</string>
+
+
+    <string name="intr_0_01">Witaj w grze Trzepacz!</string>
+    <string name="intr_0_02">Ruszaj telefonem, aby jak najmocniej rozkręcić wahadło.</string>
+    <string name="intr_0_03">Kiedy wahadło jest już mocno rozkręcone dotknij ekranu i rzuć kulką jak najdalej potrafisz.</string>
+    <string name="intr_0_04">Graj sam, z kolegami, lub przez internet.</string>
+    <string name="intr_0_05">Zdobywaj odznaczenia waleni i rzucaj różnymi kulkami.</string>
+
+    <string name="intr_1_01">Witaj w grze Online!</string>
+    <string name="intr_1_02">Wprowadź swoje imie w ustawieniach, aby inni widzieli z kim grają.</string>
+    <string name="intr_1_03">Wybierz swojego walenia w osiągnięciach, aby pochwalić się swoją rangą.</string>
+    <string name="intr_1_04">Rozpocznij do 15 gier z losowym przeciwnikiem lub wybierz go wpisując jego ID.</string>
+    <string name="intr_1_05">Graj 5-rundowe pojedynki i zdobywaj punkty rankingowe. Kliknij, aby zobaczyć szczegóły gry.</string>
+    <string name="intr_1_06">Sprawdź swoją pozycję i najlepszych graczy w ogólnym rankingu.</string>
+    <string name="intr_1_07">Graj, wyzwij gracza na rewanż, lub usuń grę jeżeli twój przeciwnik nie zagrał dłużej niż 24h</string>
+
+    <string name="kontakt__">Kontakt</string>
+    <string name="facebook_">Facebook</string>
+
+</resources>

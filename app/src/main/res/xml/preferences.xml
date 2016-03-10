@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <PreferenceCategory
+        android:title="@string/ustaw_gry"
+       >
+        <CheckBoxPreference android:title="@string/wibracje_"
+            android:defaultValue="false"
+            android:summary="@string/czy_podcz"
+            android:key="Wibracje" />
+        <ListPreference android:key="lang"
+            android:title="@string/jezyk_gry"
+            android:summary="@string/wybierz_j"
+            android:entries="@array/Language"
+            android:entryValues="@array/languageAlias">
+        </ListPreference>
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        android:title="@string/gra_w_sie"
+      >
+        <EditTextPreference android:title="@string/twoja_naz"
+            android:key="username"
+            android:summary="@string/wpisz_swo"></EditTextPreference>
+        <Preference
+            android:summary="0"
+            android:title="@string/id_do_gry"
+            android:key="idd"/>
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        android:title="@string/info_o_te"
+       >
+        <Preference
+            android:summary="0"
+            android:title="@string/szerokosc"
+            android:key="sz_0"/>
+        <Preference
+            android:summary="0"
+            android:title="@string/model_tel"
+            android:key="sz_2"/>
+
+/    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/kontakt__"
+        >
+        <Preference
+            android:summary="https://www.facebook.com/Trzepacz-1689289401283169/"
+            android:title="@string/facebook_"
+            android:key="sz_01"/>
+
+     </PreferenceCategory>
+
+
+</PreferenceScreen>

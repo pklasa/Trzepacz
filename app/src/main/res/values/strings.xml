@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Trzepacz</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="szybka_gr">Fast Game</string>
+    <string name="wielu_gra">Multiplayer</string>
+    <string name="osiagniec">Achievements</string>
+    <string name="ustawieni">Settings</string>
+
+    <string name="dwa_gracz">2 Players</string>
+    <string name="trz_gracz">3 Players</string>
+    <string name="gra_onlin">Online</string>
+
+    <string name="najl_wyni">HIGH SCORE</string>
+
+    <string name="runda_num">Round</string>
+    <string name="sekund___">seconds</string>
+    <string name="gracz____">Player</string>
+    <string name="gracz_jed">Player 1</string>
+    <string name="gracz_dwa">Player 2</string>
+    <string name="wyniki_po">Results after round</string>
+
+    <string name="czekaj_ru">Wait.</string>
+    <string name="twoj_ruch">Your turn.</string>
+    <string name="koniec_gr">End of the game.</string>
+    <string name="zobacz_wy">See the results.</string>
+    <string name="nowa_gra_">New game</string>
+    <string name="anuluj___">Cancel</string>
+    <string name="graj_____">Play</string>
+    <string name="odswiez_w">Refresh</string>
+    <string name="ranking_g">Ranking</string>
+    <string name="ranking_o">Ranking Online</string>
+    <string name="wpro_imie">Enter your name in the game settings.</string>
+
+    <string name="aby_rozpo">Finish your games to start new one.</string>
+    <string name="wlacz_dan">Turn on Wi-Fi or data in your phone.</string>
+    <string name="rewanz___">Revenge</string>
+    <string name="usun_____">Delete</string>
+    <string name="tak______">Yes</string>
+    <string name="nie______">No</string>
+    <string name="jestes_pe">Are you sure? You can lose points.</string>
+    <string name="wp_id_opp">Enter ID of the opponent</string>
+    <string name="wp_swoje_">Enter the ID of the player you want to play. Your ID can be found in the game settings. If you enter nothing you will play with a random opponent.</string>
+
+    <string name="najdluzsz">The longest throw</string>
+    <string name="suma_rzut">Total throws</string>
+    <string name="razem_raz">total</string>
+    <string name="rzut_rzut">throw</string>
+
+    <string name="o_rybka__">Default</string>
+    <string name="o_wielory">Whale</string>
+    <string name="o_orka___">Orca</string>
+    <string name="o_kaszalo">Cachalot</string>
+    <string name="o_narwal_">Narwhal</string>
+    <string name="o_walen__">Right Whale</string>
+    <string name="zablokowa">locked</string>
+
+    <string name="ustaw_gry">Game settings</string>
+    <string name="wibracje_">Vibes</string>
+    <string name="jezyk_gry">Language</string>
+    <string name="wybierz_j">Select language</string>
+    <string name="czy_podcz"></string>
+    <string name="gra_w_sie">Online Game</string>
+    <string name="twoja_naz">Your name</string>
+    <string name="wpisz_swo">Enter your name</string>
+    <string name="id_do_gry">Id for network game</string>
+    <string name="info_o_te">About phone</string>
+    <string name="szerokosc">Width in px</string>
+    <string name="model_tel">Phone model</string>
+
+    <string name="intr_0_01">Welcome in Trzepacz!</string>
+    <string name="intr_0_02">Wave your phone, and spin the pendulum.</string>
+    <string name="intr_0_03">If it rotate quickly, touch the screen and throw a ball.</string>
+    <string name="intr_0_04">Play alone, with friends, or via the Internet.</string>
+    <string name="intr_0_05">Collect the achievements, and select your ball.</string>
+
+    <string name="intr_1_01">Welcome in Online Game!</string>
+    <string name="intr_1_02">Enter your name in the settings.</string>
+    <string name="intr_1_03">Select your whale and show others your rank.</string>
+    <string name="intr_1_04">Start up to 15 games with a random opponent, or select it by entering his ID.</string>
+    <string name="intr_1_05">Play 5-round bouts fights and earn ranking points. Click to see the details of the game.</string>
+    <string name="intr_1_06">Check your position and the best players in the general ranking.</string>
+    <string name="intr_1_07">Play next round, rematch, or delete a game if your opponent has not played more than 24 hours.</string>
+
+    <string name="kontakt__">Contact</string>
+    <string name="facebook_">Facebook</string>
+</resources>
